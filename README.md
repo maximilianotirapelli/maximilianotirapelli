@@ -25,7 +25,7 @@ En 2022 empiezo a estudiar con Digital House Certified Tech Developer para solid
 </br>
 Y alguna más...
 
-## Encuéntrame en:
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maximiliano_Tirapelli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/maximiliano-tirapelli)
 
