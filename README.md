@@ -4,6 +4,8 @@
 ### Hola, mi nombre es Maximiliano Tirapelli 👋
 ### Full Stack web Developer
 
+<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+
 
 Soy estudiante de software profesional desde hace de dos años.
 
