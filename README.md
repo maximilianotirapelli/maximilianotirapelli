@@ -5,7 +5,7 @@
 Soy estudiante de software profesional desde hace de dos años.
 
 En 2019 dejé mi trabajo en una multinacional comence a incursionar en el mundo de la tecnologia, el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo web, colaborando con empresas de diferentes partes del mundo, creando xxxxxx
+Desde entonces me he dedicado a especializarme en el desarrollo web, colaborando con empresas de diferentes partes del mundo, creando varios proyectos
 
 En 2022 empiezo a estudiar con Digital House Certified Tech Developer para solidificar los conocimientos adquiridos de manera individual y compartir mi experiencia con mis compañeros. Me gustaría seguir aprendiendo, evolucionando y perfeccionar todo tipo de lenguajes a lo largo de los años.
 
