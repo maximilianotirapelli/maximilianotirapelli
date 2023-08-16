@@ -7,12 +7,9 @@
 <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
 
-Soy estudiante de software profesional desde hace de dos años.
-
-En 2020 dejé mi trabajo en una multinacional comence a incursionar en el mundo de la tecnologia, el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo web, colaborando y creando varios proyectos
-
-En 2022 empiezo a estudiar con Digital House Certified Tech Developer para solidificar los conocimientos adquiridos de manera individual y compartir mi experiencia con mis compañeros. Me gustaría seguir aprendiendo, evolucionando y perfeccionar todo tipo de lenguajes a lo largo de los años.
+Soy un desarrollador Full Stack apasionado por la programación y con un rápido aprendizaje en nuevas tecnologías. 
+Poseo habilidades en frontend y backend, y tengo experiencia con metodologías ágiles y sus herramientas de implementación. 
+Mi deseo constante de aprender me motiva a estar siempre al día con las últimas tendencias tecnológicas.
 
 
 
